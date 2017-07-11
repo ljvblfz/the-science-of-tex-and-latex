@@ -20,7 +20,7 @@
 \contentsline {subsection}{\numberline {3.5}\slshape Characters in email}{9}{subsection.3.5}
 \contentsline {subsection}{\numberline {3.6}\slshape FTP}{9}{subsection.3.6}
 \contentsline {subsection}{\numberline {3.7}\slshape Character encodings in editors and programming languages}{9}{subsection.3.7}
-\contentsline {section}{\numberline {4}\bfseries Character issues in T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m \ / \LaTeX }{9}{section.4}
+\contentsline {section}{\numberline {4}\bfseries Character issues in T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m {}\ / \LaTeX }{9}{section.4}
 \contentsline {subsection}{\numberline {4.1}\slshape Diacritics}{9}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}\slshape \LaTeX \ input file access to fonts}{10}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}\slshape \LaTeX \ output encoding}{10}{subsection.4.3}

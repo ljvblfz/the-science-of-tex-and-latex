@@ -1,4 +1,4 @@
-
+.PHONY: info
 info ::
 	@echo
 
@@ -22,10 +22,9 @@ format :
 	export TEXINPUTS=../Parsing:../Breaking:./trees:./automata:./graphics:${HOME}/Software/TeX/LaTeX:${TEXINPUTS} ; pdflatex course
 
 info ::
-	@echo "make upload"
+	@echo "make upload: copy to dropbox"
 upload :
 	cp course.pdf ${HOME}/DropBox/TACC/Projects/${FULLNAME}
-	scp course.pdf ve343@sftp.austin.utexas.edu:/DepartmentalDirectories/tacc/home/veijkhout/public_html/Articles/TeXLaTeXcourse.pdf
 
 
 CHAPTERS = latex tex tex1 tex2 parsing lex yacc hashing \
